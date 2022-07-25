@@ -1,4 +1,4 @@
-# finstagram
+# PicBox
 
 A new Flutter project.
 
